@@ -1,9 +1,9 @@
-  Trash Collector Robot - 
+# Trash Collector Robot - 
 
-   Overview  
+## Overview  
 The Trash Collector Robot is an autonomous robot designed to navigate an environment, detect trash, and collect it using ROS (Robot Operating System) and Gazebo simulation. It utilizes sensors for object detection, path planning, and control mechanisms to pick up and dispose of trash.  
 
-   Features  
+## Features  
 - Autonomous navigation using ROS 2 (or ROS 1)  
 - Object detection using a camera or LiDAR  
 - Path planning with obstacle avoidance  
@@ -29,13 +29,13 @@ The Trash Collector Robot is an autonomous robot designed to navigate an environ
    source install/setup.bash  # ROS 2
    ```
 
-   Running the Simulation  
+## Running the Simulation  
 Launch the Gazebo world and the trash collector robot:  
 ```bash
 roslaunch trash_collector simulation.launch
 ```
 
-  Controls  
+## Controls  
 - The robot moves autonomously, but you can manually control it using:  
   ```bash
   ros2 topic pub /cmd_vel geometry_msgs/Twist '{linear: {x: 0.5}, angular: {z: 0.0}}'  # ROS 2
