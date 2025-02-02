@@ -4,7 +4,7 @@
 The Trash Collector Robot is an autonomous robot designed to navigate an environment, detect trash, and collect it using ROS (Robot Operating System) and Gazebo simulation. It utilizes sensors for object detection, path planning, and control mechanisms to pick up and dispose of trash.  
 
 ## Features  
-- Autonomous navigation using ROS 2 (or ROS 1)  
+- Autonomous navigation using ROS 2   
 - Object detection using a camera or LiDAR  
 - Path planning with obstacle avoidance  
 - Arm or gripper control for trash collection  
