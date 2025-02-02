@@ -1,0 +1,4 @@
+source;share/trash_collector/local_setup.bash
+source;share/trash_collector/local_setup.dsv
+source;share/trash_collector/local_setup.sh
+source;share/trash_collector/local_setup.zsh

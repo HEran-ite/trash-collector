@@ -1,0 +1,92 @@
+[
+{
+  "directory": "/home/yordi/ros2_ws/build/trash_collector",
+  "command": "/usr/bin/c++ -DBOOST_TEST_DYN_LINK -DDEFAULT_RMW_IMPLEMENTATION=rmw_fastrtps_cpp -DLIBBULLET_VERSION=2.88 -DLIBBULLET_VERSION_GT_282 -DRCUTILS_ENABLE_FAULT_INJECTION -DSPDLOG_COMPILED_LIB -I/opt/ros/foxy/src/gtest_vendor/include -I/home/yordi/ros2_ws/src/trash_collector/trash_collector/../include/trash_collector -I/home/yordi/ros2_ws/src/trash_collector/trash_collector/include/trash_collector -isystem /opt/ros/foxy/include -isystem /usr/include/opencv4 -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles/test_trash_collector.dir/test/main.cpp.o -c /home/yordi/ros2_ws/src/trash_collector/trash_collector/test/main.cpp",
+  "file": "/home/yordi/ros2_ws/src/trash_collector/trash_collector/test/main.cpp",
+  "output": "CMakeFiles/test_trash_collector.dir/test/main.cpp.o"
+},
+{
+  "directory": "/home/yordi/ros2_ws/build/trash_collector",
+  "command": "/usr/bin/c++ -DBOOST_TEST_DYN_LINK -DDEFAULT_RMW_IMPLEMENTATION=rmw_fastrtps_cpp -DLIBBULLET_VERSION=2.88 -DLIBBULLET_VERSION_GT_282 -DRCUTILS_ENABLE_FAULT_INJECTION -DSPDLOG_COMPILED_LIB -I/opt/ros/foxy/src/gtest_vendor/include -I/home/yordi/ros2_ws/src/trash_collector/trash_collector/../include/trash_collector -I/home/yordi/ros2_ws/src/trash_collector/trash_collector/include/trash_collector -isystem /opt/ros/foxy/include -isystem /usr/include/opencv4 -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles/test_trash_collector.dir/test/manipulation_test.cpp.o -c /home/yordi/ros2_ws/src/trash_collector/trash_collector/test/manipulation_test.cpp",
+  "file": "/home/yordi/ros2_ws/src/trash_collector/trash_collector/test/manipulation_test.cpp",
+  "output": "CMakeFiles/test_trash_collector.dir/test/manipulation_test.cpp.o"
+},
+{
+  "directory": "/home/yordi/ros2_ws/build/trash_collector",
+  "command": "/usr/bin/c++ -DBOOST_TEST_DYN_LINK -DDEFAULT_RMW_IMPLEMENTATION=rmw_fastrtps_cpp -DLIBBULLET_VERSION=2.88 -DLIBBULLET_VERSION_GT_282 -DRCUTILS_ENABLE_FAULT_INJECTION -DSPDLOG_COMPILED_LIB -I/opt/ros/foxy/src/gtest_vendor/include -I/home/yordi/ros2_ws/src/trash_collector/trash_collector/../include/trash_collector -I/home/yordi/ros2_ws/src/trash_collector/trash_collector/include/trash_collector -isystem /opt/ros/foxy/include -isystem /usr/include/opencv4 -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles/test_trash_collector.dir/test/navigation_test.cpp.o -c /home/yordi/ros2_ws/src/trash_collector/trash_collector/test/navigation_test.cpp",
+  "file": "/home/yordi/ros2_ws/src/trash_collector/trash_collector/test/navigation_test.cpp",
+  "output": "CMakeFiles/test_trash_collector.dir/test/navigation_test.cpp.o"
+},
+{
+  "directory": "/home/yordi/ros2_ws/build/trash_collector",
+  "command": "/usr/bin/c++ -DBOOST_TEST_DYN_LINK -DDEFAULT_RMW_IMPLEMENTATION=rmw_fastrtps_cpp -DLIBBULLET_VERSION=2.88 -DLIBBULLET_VERSION_GT_282 -DRCUTILS_ENABLE_FAULT_INJECTION -DSPDLOG_COMPILED_LIB -I/opt/ros/foxy/src/gtest_vendor/include -I/home/yordi/ros2_ws/src/trash_collector/trash_collector/../include/trash_collector -I/home/yordi/ros2_ws/src/trash_collector/trash_collector/include/trash_collector -isystem /opt/ros/foxy/include -isystem /usr/include/opencv4 -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles/test_trash_collector.dir/test/perception_test.cpp.o -c /home/yordi/ros2_ws/src/trash_collector/trash_collector/test/perception_test.cpp",
+  "file": "/home/yordi/ros2_ws/src/trash_collector/trash_collector/test/perception_test.cpp",
+  "output": "CMakeFiles/test_trash_collector.dir/test/perception_test.cpp.o"
+},
+{
+  "directory": "/home/yordi/ros2_ws/build/trash_collector",
+  "command": "/usr/bin/c++ -DBOOST_TEST_DYN_LINK -DDEFAULT_RMW_IMPLEMENTATION=rmw_fastrtps_cpp -DLIBBULLET_VERSION=2.88 -DLIBBULLET_VERSION_GT_282 -DRCUTILS_ENABLE_FAULT_INJECTION -DSPDLOG_COMPILED_LIB -I/opt/ros/foxy/src/gtest_vendor/include -I/home/yordi/ros2_ws/src/trash_collector/trash_collector/../include/trash_collector -I/home/yordi/ros2_ws/src/trash_collector/trash_collector/include/trash_collector -isystem /opt/ros/foxy/include -isystem /usr/include/opencv4 -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles/test_trash_collector.dir/src/Manipulation.cpp.o -c /home/yordi/ros2_ws/src/trash_collector/trash_collector/src/Manipulation.cpp",
+  "file": "/home/yordi/ros2_ws/src/trash_collector/trash_collector/src/Manipulation.cpp",
+  "output": "CMakeFiles/test_trash_collector.dir/src/Manipulation.cpp.o"
+},
+{
+  "directory": "/home/yordi/ros2_ws/build/trash_collector",
+  "command": "/usr/bin/c++ -DBOOST_TEST_DYN_LINK -DDEFAULT_RMW_IMPLEMENTATION=rmw_fastrtps_cpp -DLIBBULLET_VERSION=2.88 -DLIBBULLET_VERSION_GT_282 -DRCUTILS_ENABLE_FAULT_INJECTION -DSPDLOG_COMPILED_LIB -I/opt/ros/foxy/src/gtest_vendor/include -I/home/yordi/ros2_ws/src/trash_collector/trash_collector/../include/trash_collector -I/home/yordi/ros2_ws/src/trash_collector/trash_collector/include/trash_collector -isystem /opt/ros/foxy/include -isystem /usr/include/opencv4 -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles/test_trash_collector.dir/src/Navigation.cpp.o -c /home/yordi/ros2_ws/src/trash_collector/trash_collector/src/Navigation.cpp",
+  "file": "/home/yordi/ros2_ws/src/trash_collector/trash_collector/src/Navigation.cpp",
+  "output": "CMakeFiles/test_trash_collector.dir/src/Navigation.cpp.o"
+},
+{
+  "directory": "/home/yordi/ros2_ws/build/trash_collector",
+  "command": "/usr/bin/c++ -DBOOST_TEST_DYN_LINK -DDEFAULT_RMW_IMPLEMENTATION=rmw_fastrtps_cpp -DLIBBULLET_VERSION=2.88 -DLIBBULLET_VERSION_GT_282 -DRCUTILS_ENABLE_FAULT_INJECTION -DSPDLOG_COMPILED_LIB -I/opt/ros/foxy/src/gtest_vendor/include -I/home/yordi/ros2_ws/src/trash_collector/trash_collector/../include/trash_collector -I/home/yordi/ros2_ws/src/trash_collector/trash_collector/include/trash_collector -isystem /opt/ros/foxy/include -isystem /usr/include/opencv4 -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles/test_trash_collector.dir/src/Perception.cpp.o -c /home/yordi/ros2_ws/src/trash_collector/trash_collector/src/Perception.cpp",
+  "file": "/home/yordi/ros2_ws/src/trash_collector/trash_collector/src/Perception.cpp",
+  "output": "CMakeFiles/test_trash_collector.dir/src/Perception.cpp.o"
+},
+{
+  "directory": "/home/yordi/ros2_ws/build/trash_collector",
+  "command": "/usr/bin/c++ -DBOOST_TEST_DYN_LINK -DDEFAULT_RMW_IMPLEMENTATION=rmw_fastrtps_cpp -DLIBBULLET_VERSION=2.88 -DLIBBULLET_VERSION_GT_282 -DRCUTILS_ENABLE_FAULT_INJECTION -DSPDLOG_COMPILED_LIB -I/opt/ros/foxy/src/gtest_vendor/include -I/home/yordi/ros2_ws/src/trash_collector/trash_collector/../include/trash_collector -I/home/yordi/ros2_ws/src/trash_collector/trash_collector/include/trash_collector -isystem /opt/ros/foxy/include -isystem /usr/include/opencv4 -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles/test_trash_collector.dir/src/RobotSim.cpp.o -c /home/yordi/ros2_ws/src/trash_collector/trash_collector/src/RobotSim.cpp",
+  "file": "/home/yordi/ros2_ws/src/trash_collector/trash_collector/src/RobotSim.cpp",
+  "output": "CMakeFiles/test_trash_collector.dir/src/RobotSim.cpp.o"
+},
+{
+  "directory": "/home/yordi/ros2_ws/build/trash_collector",
+  "command": "/usr/bin/c++ -DBOOST_TEST_DYN_LINK -DDEFAULT_RMW_IMPLEMENTATION=rmw_fastrtps_cpp -DLIBBULLET_VERSION=2.88 -DLIBBULLET_VERSION_GT_282 -DRCUTILS_ENABLE_FAULT_INJECTION -DSPDLOG_COMPILED_LIB -I/home/yordi/ros2_ws/src/trash_collector/trash_collector/include/trash_collector -isystem /opt/ros/foxy/include -isystem /usr/include/opencv4 -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles/my_main.dir/src/main.cpp.o -c /home/yordi/ros2_ws/src/trash_collector/trash_collector/src/main.cpp",
+  "file": "/home/yordi/ros2_ws/src/trash_collector/trash_collector/src/main.cpp",
+  "output": "CMakeFiles/my_main.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/yordi/ros2_ws/build/trash_collector",
+  "command": "/usr/bin/c++ -DBOOST_TEST_DYN_LINK -DDEFAULT_RMW_IMPLEMENTATION=rmw_fastrtps_cpp -DLIBBULLET_VERSION=2.88 -DLIBBULLET_VERSION_GT_282 -DRCUTILS_ENABLE_FAULT_INJECTION -DSPDLOG_COMPILED_LIB -I/home/yordi/ros2_ws/src/trash_collector/trash_collector/include/trash_collector -isystem /opt/ros/foxy/include -isystem /usr/include/opencv4 -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles/my_main.dir/src/Manipulation.cpp.o -c /home/yordi/ros2_ws/src/trash_collector/trash_collector/src/Manipulation.cpp",
+  "file": "/home/yordi/ros2_ws/src/trash_collector/trash_collector/src/Manipulation.cpp",
+  "output": "CMakeFiles/my_main.dir/src/Manipulation.cpp.o"
+},
+{
+  "directory": "/home/yordi/ros2_ws/build/trash_collector",
+  "command": "/usr/bin/c++ -DBOOST_TEST_DYN_LINK -DDEFAULT_RMW_IMPLEMENTATION=rmw_fastrtps_cpp -DLIBBULLET_VERSION=2.88 -DLIBBULLET_VERSION_GT_282 -DRCUTILS_ENABLE_FAULT_INJECTION -DSPDLOG_COMPILED_LIB -I/home/yordi/ros2_ws/src/trash_collector/trash_collector/include/trash_collector -isystem /opt/ros/foxy/include -isystem /usr/include/opencv4 -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles/my_main.dir/src/Navigation.cpp.o -c /home/yordi/ros2_ws/src/trash_collector/trash_collector/src/Navigation.cpp",
+  "file": "/home/yordi/ros2_ws/src/trash_collector/trash_collector/src/Navigation.cpp",
+  "output": "CMakeFiles/my_main.dir/src/Navigation.cpp.o"
+},
+{
+  "directory": "/home/yordi/ros2_ws/build/trash_collector",
+  "command": "/usr/bin/c++ -DBOOST_TEST_DYN_LINK -DDEFAULT_RMW_IMPLEMENTATION=rmw_fastrtps_cpp -DLIBBULLET_VERSION=2.88 -DLIBBULLET_VERSION_GT_282 -DRCUTILS_ENABLE_FAULT_INJECTION -DSPDLOG_COMPILED_LIB -I/home/yordi/ros2_ws/src/trash_collector/trash_collector/include/trash_collector -isystem /opt/ros/foxy/include -isystem /usr/include/opencv4 -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles/my_main.dir/src/Perception.cpp.o -c /home/yordi/ros2_ws/src/trash_collector/trash_collector/src/Perception.cpp",
+  "file": "/home/yordi/ros2_ws/src/trash_collector/trash_collector/src/Perception.cpp",
+  "output": "CMakeFiles/my_main.dir/src/Perception.cpp.o"
+},
+{
+  "directory": "/home/yordi/ros2_ws/build/trash_collector",
+  "command": "/usr/bin/c++ -DBOOST_TEST_DYN_LINK -DDEFAULT_RMW_IMPLEMENTATION=rmw_fastrtps_cpp -DLIBBULLET_VERSION=2.88 -DLIBBULLET_VERSION_GT_282 -DRCUTILS_ENABLE_FAULT_INJECTION -DSPDLOG_COMPILED_LIB -I/home/yordi/ros2_ws/src/trash_collector/trash_collector/include/trash_collector -isystem /opt/ros/foxy/include -isystem /usr/include/opencv4 -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles/my_main.dir/src/RobotSim.cpp.o -c /home/yordi/ros2_ws/src/trash_collector/trash_collector/src/RobotSim.cpp",
+  "file": "/home/yordi/ros2_ws/src/trash_collector/trash_collector/src/RobotSim.cpp",
+  "output": "CMakeFiles/my_main.dir/src/RobotSim.cpp.o"
+},
+{
+  "directory": "/home/yordi/ros2_ws/build/trash_collector/gtest",
+  "command": "/usr/bin/c++ -DBOOST_TEST_DYN_LINK -DLIBBULLET_VERSION=2.88 -DLIBBULLET_VERSION_GT_282 -I/opt/ros/foxy/src/gtest_vendor/include -I/opt/ros/foxy/src/gtest_vendor/. -std=gnu++17 -Wno-missing-field-initializers -Wall -Wextra -Wpedantic -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /opt/ros/foxy/src/gtest_vendor/src/gtest-all.cc",
+  "file": "/opt/ros/foxy/src/gtest_vendor/src/gtest-all.cc",
+  "output": "gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
+},
+{
+  "directory": "/home/yordi/ros2_ws/build/trash_collector/gtest",
+  "command": "/usr/bin/c++ -DBOOST_TEST_DYN_LINK -DLIBBULLET_VERSION=2.88 -DLIBBULLET_VERSION_GT_282 -I/opt/ros/foxy/src/gtest_vendor/include -I/opt/ros/foxy/src/gtest_vendor/. -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /opt/ros/foxy/src/gtest_vendor/src/gtest_main.cc",
+  "file": "/opt/ros/foxy/src/gtest_vendor/src/gtest_main.cc",
+  "output": "gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o"
+}
+]
