@@ -32,15 +32,8 @@ The Trash Collector Robot is an autonomous robot designed to navigate an environ
 ## Running the Simulation  
 Launch the Gazebo world and the trash collector robot:  
 ```bash
-roslaunch trash_collector simulation.launch
+roslaunch trash_collector hospital.launch
 ```
-
-## Controls  
-- The robot moves autonomously, but you can manually control it using:  
-  ```bash
-  ros2 topic pub /cmd_vel geometry_msgs/Twist '{linear: {x: 0.5}, angular: {z: 0.0}}'  # ROS 2
-  ```
-- The gripper/arm can be controlled via a service or action.  
 
 ## Future Improvements  
 - Improve trash detection using AI-based vision models.  
